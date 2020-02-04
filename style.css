@@ -80,6 +80,7 @@ padding:0px;
 	filter: grayscale(0);
 }
 
-
-
+p{
+	border-radius: 50px;
+}
 
